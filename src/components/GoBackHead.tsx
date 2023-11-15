@@ -4,6 +4,7 @@ import MaterialIcons from 'react-native-vector-icons/MaterialIcons'
 import Colors from '../constants/Colors'
 import Fonts from '../constants/Fonts'
 import { useNavigation } from '@react-navigation/native'
+import <Acr></Acr> from '../pages/Schedule'
 
 const GoBackHead = ({title}: {title:string}) => {
     const navigation = useNavigation();
