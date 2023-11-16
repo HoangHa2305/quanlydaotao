@@ -1,7 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import Fonts from "../constants/Fonts";
-import ScheduleItem from "./ScheduleItem";
 
 const Logo = () => {
     return (
